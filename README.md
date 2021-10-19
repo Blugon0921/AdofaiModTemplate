@@ -1,0 +1,2 @@
+# AdofaiModTemplate
+ AdofaiModTemplate
