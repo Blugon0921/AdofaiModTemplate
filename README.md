@@ -1,2 +1,1 @@
 # AdofaiModTemplate
- AdofaiModTemplate
